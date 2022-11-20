@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DPhol
 - 👀 I’m interested in  la programacion
-- 🌱 I’m currently learning  Java
+- 🌱 I’m currently learning  python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
